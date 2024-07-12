@@ -1,5 +1,5 @@
 {
    "isShowUnityAds": false,
-    "isShowGameScreen": "false",
-    "isShowIcon": false
+    "isShowGameScreen": false,
+    "isShowIcon": true
 }

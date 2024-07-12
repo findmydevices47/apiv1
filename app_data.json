@@ -1,6 +1,5 @@
 {
-   "id": 55,
-    "name": "dfdfd",
-    "age": 22,
-    "email": "dfdf@mail.com"
+   "isShowUnityAds": false,
+    "isShowGameScreen": "false",
+    "isShowIcon": false
 }

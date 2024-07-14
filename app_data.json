@@ -1,5 +1,23 @@
 {
    "isShowUnityAds": false,
     "isShowGameScreen": false,
-    "isShowIcon": true
+    "isShowIcon": true,
+   "listIconUrl": [
+    {
+        "name": BTC,
+        "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/1.png",
+    },
+    {
+        "name": ETH,
+        "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
+    },
+    {
+        "name": BNB,
+        "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png",
+    },
+    {
+        "name": SOL,
+        "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png",
+    },
+  ]
 }

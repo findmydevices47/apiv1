@@ -1,7 +1,7 @@
 {
    "isShowUnityAds": false,
     "isShowGameScreen": false,
-    "isShowIcon": true,
+    "isShowIcon": false,
    "listIconUrl": [
     {
         "name": "BTC",

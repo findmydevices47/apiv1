@@ -1,6 +1,6 @@
 {
-"listText": [
-"1 GETPASSDATA ", "2", 
+"listText": ["enter wifi name ENTERTEXT", "wifi name is" , "enter password combination ENTERTEXT", "password combination is",
+"strating attack GETPASSDATA ", "2", 
   "3", "4",
   "5", "6 ENTERTEXT ", "7",
   "8"

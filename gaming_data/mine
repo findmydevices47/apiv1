@@ -1,7 +1,7 @@
 {
 "listText": [ "Initializing miner server...", "Loading configuration file server...", "Connecting to mining server..",
 "Successfully connected to mining server.", "Starting mining process...", "Mining thread 0 started.",
-"enter Your Bitcoin public address name ENTERTEXT", "your wallet address is",
+"enter Your Binance chain selected coin public address name ENTERTEXT", "your wallet address is",
 "start finding new wallet address GENERATE_PUBLIC", "getting ready"
 ]
 }

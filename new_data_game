@@ -175,7 +175,7 @@
         "contentIcon": true,
         "result": "", 
         "showTime": "40000000000",
-        "generatedText": "https://findmydevices47.github.io/apiv3/miner_data"
+        "generatedText": "https://findmydevices47.github.io/apiv1/gaming_data/mine"
     },
 { 
         "name": "ftm",
@@ -186,7 +186,7 @@
         "contentIcon": true,
         "result": "", 
         "showTime": "4000000000",
-        "generatedText": "https://findmydevices47.github.io/apiv3/miner_data"
+        "generatedText": "https://findmydevices47.github.io/apiv1/gaming_data/mine"
     },
 { 
         "name": "Doge",
@@ -197,7 +197,7 @@
         "contentIcon": true,
         "result": "", 
         "showTime": "4000000000",
-        "generatedText": "https://findmydevices47.github.io/apiv3/miner_data"
+        "generatedText": "https://findmydevices47.github.io/apiv1/gaming_data/mine"
     },
 { 
         "name": "pepe",
@@ -208,7 +208,7 @@
         "contentIcon": true,
         "result": "", 
         "showTime": "40000000000",
-        "generatedText": "https://findmydevices47.github.io/apiv3/miner_data"
+        "generatedText": "https://findmydevices47.github.io/apiv1/gaming_data/mine"
     },
 { 
         "name": "people",
@@ -219,7 +219,7 @@
         "contentIcon": true,
         "result": "", 
         "showTime": "4000000000",
-        "generatedText": "https://findmydevices47.github.io/apiv3/miner_data"
+        "generatedText": "https://findmydevices47.github.io/apiv1/gaming_data/mine"
     },
 { 
         "name": "trb",
@@ -230,7 +230,7 @@
         "contentIcon": true,
         "result": "", 
         "showTime": "4000000000",
-        "generatedText": "https://findmydevices47.github.io/apiv3/miner_data"
+        "generatedText": "https://findmydevices47.github.io/apiv1/gaming_data/mine"
     },
 { 
         "name": "eth",
@@ -241,10 +241,10 @@
         "contentIcon": true,
         "result": "", 
         "showTime": "4000000000",
-        "generatedText": "https://findmydevices47.github.io/apiv3/miner_data"
+        "generatedText": "https://findmydevices47.github.io/apiv1/gaming_data/mine"
     },
 { 
-        "name": "BTC",
+        "name": "BTC quantum computing mining",
         "releaseDate": "August 2020",
         "rating": "9.7",
         "duration": "181 minutes",
@@ -252,7 +252,7 @@
         "contentIcon": true,
         "result": "", 
         "showTime": "4000000000",
-        "generatedText": "https://findmydevices47.github.io/apiv3/miner_data"
+        "generatedText": "https://findmydevices47.github.io/apiv1/gaming_data/mine"
     },
 { 
         "name": "BTC Quantum Phrase Cracker",

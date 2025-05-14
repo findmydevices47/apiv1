@@ -1,5 +1,5 @@
 {
-"listText": ["enter  netflix account name ENTERTEXT", "instagram account name is" , "enter password combination ENTERTEXT", "password combination is",
-"strating bruteforce attack GETPASSDATA", "getting ready"
+"listText": ["enter netflix account number ENTERTEXT", "netflix account number is" ,
+"geting otp bruteforce attack GENERATE_OTTS", "getting ready"
 ]
 }

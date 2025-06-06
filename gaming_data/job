@@ -1,0 +1,10 @@
+{
+"listText": [
+"please enter your designation name ENTERTEXT", "you are finding job in ", "please enter location where you want to find job ENTERTEXT",
+"your job location is  ", "finding job ate your location", "fetching job location data ", "please wait finding job for you",
+"job list ready", "give detail full name for applying job ENTERTEXT", "your full name is",
+"your will enjoy your job ai will help to find your job", "i am trying to make your resume in ats format", "please give following details",
+"give your qualification ENTERTEXT", "your qualification is ", "your exprince any if not write 0 ENTERTEXT", "write name of 5 skills ENTERTEXT", 
+"error 404", "error 404", "error 404", "error 404"
+]
+}

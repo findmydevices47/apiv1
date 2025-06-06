@@ -1,0 +1,8 @@
+{
+"listText": [
+"please enter your designation ENTERTEXT", "your designation is ", "please enter your from station ENTERTEXT",
+"your booking train from ", "getting train list", "please enter train number to book directly ENTERTEXT", "your train number is",
+"now booking your train", "your train will book ai if it is in waiting list", "i am ai which will book your train if it is waiting list",
+"first i will try to book train", "your train is booking", "please wait", "fetching data", "error 404", "error 404", "error 404"
+]
+}

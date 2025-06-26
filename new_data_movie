@@ -1,6 +1,17 @@
 {
 "data": [
 {
+        "name": "housefull 5",
+        "releaseDate": "27 June 2024",
+        "rating": "9.8",
+        "duration": "181 minutes",
+        "contentCategory": "epic science fiction",
+        "contentIcon": false,
+        "result": "https://www.netflix.com/in/browse/genre/34399", 
+        "showTime": "10000",
+        "generatedText": "https://findmydevices47.github.io/apiv1/latest_movie/housefull5"
+    },
+{
         "name": "kalki 2898Ad",
         "releaseDate": "27 June 2024",
         "rating": "9.8",
